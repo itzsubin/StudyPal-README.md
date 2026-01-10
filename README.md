@@ -37,3 +37,6 @@ Instant Preview: Added one-click PDF preview opening in a new tab.
 Rich Visuals:
 Smart Formatting: Explanations automatically format key terms with yellow highlights and bold text for better readability.
 Local Persistence: Implemented localStorage strategies to save "Understood" and "Review" progress across browser refreshes.
+
+
+Implementation of SmartNotes (10 Jan 26)
