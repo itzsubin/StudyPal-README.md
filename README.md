@@ -40,4 +40,4 @@ Local Persistence: Implemented localStorage strategies to save "Understood" and 
 
 
 Implementation of SmartNotes (10 Jan 26)
-Did the smart ui/ux design for the smart note and also made change in the api with the rate limiting. 
+Did the smart ui/ux design for the smart note and also made change in the api with the rate limiting, decling lag issue and better prompt so there wont be more overwhelming for the student to use it. And also made review card with optimal ui/ux in recall cards section. Also I designed the new logo and chnaged it. 
