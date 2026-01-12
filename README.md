@@ -41,3 +41,6 @@ Local Persistence: Implemented localStorage strategies to save "Understood" and 
 
 Implementation of SmartNotes (10 Jan 26)
 Did the smart ui/ux design for the smart note and also made change in the api with the rate limiting, decling lag issue and better prompt so there wont be more overwhelming for the student to use it. And also made review card with optimal ui/ux in recall cards section. Also I designed the new logo and chnaged it, that matches the theme quite well. 
+
+Implementation of smart checking for a study materials (12 Jan 26)
+use the mistral ai to check whether the uploaded materials is study related or not, while this work on both side of either uploaded or paste the text materials, first there is heuristic check with the keywords, if the possibility passes the keywords checking then it goes to the flashcard selection section. And the keywords passes less possibility then the ai comes in and check and make sure it is study materilas or not. While the maximum limitation to create the smart note is upto 20 cards, while with the materials the ai analyze the things and create the note cards accordingly.  
