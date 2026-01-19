@@ -47,3 +47,7 @@ use the mistral ai to check whether the uploaded materials is study related or n
 
 Immplementation of the better Upload section lfor the quiz geneator(19 Jan 26)
 For the quiz i have added the quiz setting that ket useer to choose between 5, 10 or 20 question on their choice and aslo there is level of difficulty they can choose while generating quiz and also a best option for mixed which will use randomness here. 
+
+Implementation of quizcard UI/UX (19 Jan 26)
+A better and student friendly approached quiz card section that allows for better focus while giving the test. Also re-generate the quiz features to work on until perfection. 
+
