@@ -44,3 +44,6 @@ Did the smart ui/ux design for the smart note and also made change in the api wi
 
 Implementation of smart checking for a study materials (12 Jan 26)
 use the mistral ai to check whether the uploaded materials is study related or not, while this work on both side of either uploaded or paste the text materials, first there is heuristic check with the keywords, if the possibility passes the keywords checking then it goes to the flashcard selection section. And the keywords passes less possibility then the ai comes in and check and make sure it is study materilas or not. While the maximum limitation to create the smart note is upto 20 cards, while with the materials the ai analyze the things and create the note cards accordingly.  
+
+Immplementation of the better Upload section lfor the quiz geneator(19 Jan 26)
+For the quiz i have added the quiz setting that ket useer to choose between 5, 10 or 20 question on their choice and aslo there is level of difficulty they can choose while generating quiz and also a best option for mixed which will use randomness here. 
