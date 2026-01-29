@@ -51,5 +51,8 @@ For the quiz i have added the quiz setting that ket useer to choose between 5, 1
 Implementation of quizcard UI/UX (19 Jan 26)
 A better and student friendly approached quiz card section that allows for better focus while giving the test. Also re-generate the quiz features to work on until perfection. 
 
-API confrigurations for Quiz (24 Jan 25)
+API confrigurations for Quiz (24 Jan 26)
 A better trim features in the quiz, that perfectlty matches the way the question should appear as per their selection. A better error handling for the developer to see in the console regarding every api connection and route. 
+
+
+AUTH added now for Login and Signup (29 Jan 26)
