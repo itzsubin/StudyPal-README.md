@@ -56,3 +56,4 @@ A better trim features in the quiz, that perfectlty matches the way the question
 
 
 AUTH added now for Login and Signup (29 Jan 26)
+Added the auth for login and signup with the cleaner features in UI/UX and cleaner interface. Worked in the backend, so that everythings runs good, for now I have been using mock login credentials. The login and sign up for now can be made via email sevrcies and google auth login. these are all before features and walkingthrough to work on the after login features that has db configurations and other services of saving and tracking the study. 
